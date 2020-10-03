@@ -1,1 +1,1 @@
-Please put documents for the project here.
+Please put presentations/docs for the project here.
