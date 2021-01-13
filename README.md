@@ -1,4 +1,4 @@
-# LEAP_N_Bound
+# 2020 NASA Challenge Project: Orbital Eye
 
 
 To get the interative map, you can type the following commands in terminal:
